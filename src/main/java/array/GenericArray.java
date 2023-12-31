@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @Author: YunFenng
+ * @Author: Jaa
  * @Date: 2020/12/29 17:48
  * @Description: 动态数组
  */

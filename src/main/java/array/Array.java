@@ -1,7 +1,7 @@
 package array;
 
 /**
- * @Author: YunFenng
+ * @Author: Jaa
  * @Date: 2020/12/29 12:45
  * @Description:
  *      1) 数组的插入、删除、按照下标随机访问操作；
