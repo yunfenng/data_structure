@@ -24,7 +24,5 @@ public class StackTest {
         Integer topElement = stack.peek();
         System.out.println(topElement);
         System.out.println("3的位置：" + stack.search(3));
-
-
     }
 }

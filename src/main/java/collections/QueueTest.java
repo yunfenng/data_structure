@@ -29,6 +29,5 @@ public class QueueTest {
         while (queue.size() > 0) {
             System.out.println(queue.poll());
         }
-
     }
 }
